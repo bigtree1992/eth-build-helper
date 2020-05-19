@@ -18,7 +18,7 @@ import (
 
 	"bytes"
 
-	"github.com/maruel/panicparse/stack"
+	"github.com/o87481299/eth-build-helper/panicparse/stack"
 	tm "github.com/nsf/termbox-go"
 )
 
